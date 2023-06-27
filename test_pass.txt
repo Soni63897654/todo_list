@@ -1,0 +1,6 @@
+Domain: letsplaylist.betaplanets.com
+CPanel: letsplaylist.betaplanets.com/cpanel
+Username: leplayts
+Password: LcVn,=_mWwHB
+Port: 21
+Host: server.knoxwebhq.com
